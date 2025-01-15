@@ -1,10 +1,15 @@
 {
   "owner": {
-    "username": "WilliamDavidHarrison",
-    "email": "william.is-a.dev@whregistry.com"
+    "username": "wdhdev",
+    "email": "william@is-a.dev"
   },
-
   "record": {
-    "CNAME": "wdhdns.com"
+    "URL": "https://wharrison.com.au"
+  },
+  "redirect_config": {
+    "custom_paths": {
+      "/github": "https://github.com/wdhdev"
+    },
+    "redirect_paths": true
   }
 }
