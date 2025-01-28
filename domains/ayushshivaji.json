@@ -1,12 +1,9 @@
-
-    {
-      "owner": {
+{
+    "owner": {
         "username": "ayushclashroyale",
         "email": "ayushclashroyale@gmail.com"
-      },
-
-      "record": {
+    },
+    "record": {
         "CNAME": "ayushclashroyale.github.io"
-      }
     }
-  
+}

@@ -1,0 +1,11 @@
+{
+  "description": "nova.is-a.dev",
+  "owner": {
+    "username": "LunarN0v4",
+    "email": "nova@zeusteam.dev",
+    "discord": "7un4r"
+  },
+  "record": {
+    "A": ["154.29.72.52"]
+  }
+}
